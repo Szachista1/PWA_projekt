@@ -1,0 +1,15 @@
+{
+    "name": "przewodnik po madrycie",
+    "short_name": "madryt",
+    "theme_color": "#5f9ea0",
+    "background_color": "#5f9ea0",
+    "display": "fullScreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icon": {
+        "src": "./8985734_grandma_grandchild_ice cream_icon(1).png",
+        "sizes": "5512x512",
+        "type": "imge/png"
+    }
+  }

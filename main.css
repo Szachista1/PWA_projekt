@@ -1,0 +1,16 @@
+.kontener {
+    position: relative; /* obrazek będzie się zmieniał rozmiar wraz ze stroną */
+    text-align: center; /* wyśrodkowanie obrazka */
+    color: rgb(221, 21, 21); /* kolor tekstu */
+  }
+  
+  .srodek {  
+    position: absolute;
+    top: 5%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+.kontener2 {
+    position: relative;
+    
+}  
