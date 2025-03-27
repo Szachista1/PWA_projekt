@@ -7,7 +7,7 @@
     "orientation": "portrait",
     "scope": "/",
     "start_url": "/PWA_projekt/",
-    "icon": {
+    "icons": {
         "src": "./8985734_grandma_grandchild_ice cream_icon(1).png",
         "sizes": "5512x512",
         "type": "imge/png"
